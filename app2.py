@@ -6,7 +6,7 @@ from io import BytesIO
 import requests
 
 # Cargar los datos
-url = 'https://raw.githubusercontent.com/cdeoroaguado/jb_dataviz/master/Base_Financiero.xlsx'
+url = 'https://raw.githubusercontent.com/moisespadilla11/dashfinanciero/master/BaseFinanciero.xlsx'
 #url = "https://raw.githubusercontent.com/cdaniellopez8/financiero/master/Base_Financiero.xlsx"
 
 # Descargar el archivo
